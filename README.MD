@@ -37,7 +37,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT Imagem] (https://app.adapta.one/) 
+- [ChatGPT Imagem](https://app.adapta.one/) 
 - [Claude 3.7 Sonet ](https://app.adapta.one/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
